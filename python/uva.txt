@@ -1,0 +1,9 @@
+		Competting programming Tutorial 1 
+		for beginner 	
+
+		# Clear & Efficient concept :  UVA problem solving 
+
+		1. UVA-  beginning , How to start 
+		2. Generating output - CodeForces
+		3. Test my Code - uDebug
+		4. Submit my code
